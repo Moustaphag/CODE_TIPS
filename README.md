@@ -9,3 +9,7 @@ Some coding tricks in scala,python, shell that I found interesting to write some
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-broadcast.html
 
 var newdata = sc.broadcast(olddata)
+
+**TPOT *** 
+
+https://epistasislab.github.io/tpot/using/
