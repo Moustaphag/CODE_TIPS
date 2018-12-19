@@ -5,6 +5,7 @@ Some coding tricks in scala,python, shell that I found interesting to write some
 1. https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/2458071/Date+Functions+and+Properties+Spark+SQL
 
 **Spark BroadCast**
+
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-broadcast.html
 
 var newdata = sc.broadcast(olddata)
