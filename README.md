@@ -13,3 +13,7 @@ var newdata = sc.broadcast(olddata)
 **TPOT *** 
 
 https://epistasislab.github.io/tpot/using/
+
+
+** To check **
+logistic Regression with cross features
