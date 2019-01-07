@@ -16,4 +16,8 @@ https://epistasislab.github.io/tpot/using/
 
 
 ** To check **
+
 logistic Regression with cross features
+
+
+https://bgweber.github.io/intro.html
