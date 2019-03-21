@@ -48,3 +48,6 @@ filter($"diff".getItem("col1")>0).show(false)
 |20181109|700      |1000     |20180629 |[300,1000]|
 +--------+---------+---------+---------+----------+
 */
+// requeste Multiple folder 
+var camp_list  = "{7590, 7591, 7813, 7571, 7589, 7592, 7663, 8080}"
+var adsquarePath = "/gluster-data/s4m-bi/DRIVE_TO_STORE/"+camp_list+"/adsquarebck/"
