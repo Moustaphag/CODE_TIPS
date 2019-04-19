@@ -14,3 +14,10 @@ git commit -m "NUMERO_TICKET: BLABLABLA"
 git push origin HEAD
 
 ##
+find . -type f -name "*.csv"
+le type f c'est pour file, pour qu'il cherche que des fichiers (edited) 
+le point c'est le répertoire où tu veux chercher
+et le name "*.csv" bah c'est pour chercher des csv
+
+Pour afficher tous les répertoires dont le nom se termine par ``s'' :
+find . -type d -name "*s" 
